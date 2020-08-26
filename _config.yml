@@ -1,11 +1,11 @@
 # Site settings
-author: Dakota Bacon
-title: 
+author: Dakota
+title: why coding
 header-img: img/home-bg.png
 email: gamer.kota@aol.com
-copyright_name: Dakota Bacon
+copyright_name: Dakota
 description: > # this means to ignore newlines until "baseurl:"
-  
+  joining coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dakota90
